@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeSettings"
+        android:title="환경설정"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/homeMenu"
+        android:title="메뉴"
+        android:icon="@drawable/ic_baseline_menu_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/homeAlram"
+        android:title="알람"
+        android:icon="@drawable/alram"
+        app:showAsAction="ifRoom"/>
+
+</menu>

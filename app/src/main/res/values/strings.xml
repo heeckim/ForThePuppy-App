@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">forThePuppy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_home">홈</string>
+    <string name="title_walk">산책</string>
+    <string name="title_chatting">채팅</string>
+    <string name="title_surrounding_facillties">주변시설</string>
+    <string name="title_my_page">마이페이지</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="restapi_key">KakaoAK 53a4681ccdfc6595d15a94a58d6f9fcd</string>
+</resources>

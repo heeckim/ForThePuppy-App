@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Terpy/Desktop/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_self.xml" value="0.1671875" />
+        <entry key="..\:/Users/Terpy/Desktop/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_substitute.xml" value="0.1671875" />
+        <entry key="..\:/Users/Terpy/Desktop/ForThePuppy-App/forThePuppy/app/src/main/res/layout/year_month_picker.xml" value="0.1671875" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.247" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/activity_main.xml" value="0.494902687673772" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/fragment_blank.xml" value="0.3754528985507246" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/fragment_chatting.xml" value="0.3754528985507246" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/fragment_home.xml" value="0.3754528985507246" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/fragment_my_page.xml" value="0.3754528985507246" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/fragment_surrounding_facillties.xml" value="0.3754528985507246" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/fragment_walk.xml" value="0.3754528985507246" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/layout/toolbar.xml" value="0.2828125" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.5078125" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/menu/chatting_toolbar.xml" value="0.5078125" />
+        <entry key="..\:/Users/khc51/AndroidStudioProjects/forThePuppy/app/src/main/res/menu/home_toolbar.xml" value="0.5078125" />
+        <entry key="..\:/Users/khc51/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_single_choice.xml" value="0.21251266464032423" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/drawable/button_round.xml" value="0.2595" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/drawable/ic_baseline_forum_24.xml" value="0.247" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/drawable/round_border.xml" value="0.2595" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/drawable/shadow_walk_item.xml" value="0.272" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/font-v26/font.xml" value="0.340625" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/activity_main.xml" value="0.3109375" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/activity_map.xml" value="0.3109375" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/activity_search.xml" value="0.3109375" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/activity_temp_map.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/activity_web_view.xml" value="0.12380952380952381" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_chatting.xml" value="0.40398550724637683" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_home.xml" value="0.3641304347826087" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_my_page.xml" value="0.2828125" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_sf.xml" value="0.3641304347826087" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_sf_tab.xml" value="0.3641304347826087" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_sf_tab1.xml" value="0.2828125" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_sf_tab2.xml" value="0.25" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_sf_tab3.xml" value="0.2828125" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_sf_tab_item.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_surrounding_facilties.xml" value="0.11797752808988764" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk.xml" value="0.2984375" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_daily_record.xml" value="0.3641304347826087" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_daily_record_item.xml" value="0.3641304347826087" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_self.xml" value="0.3641304347826087" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_substitute.xml" value="0.29375" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_tab1.xml" value="0.3233695652173913" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_tab2.xml" value="0.3233695652173913" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_walk_tab2_item.xml" value="0.33" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/fragment_web_view.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/search.xml" value="0.3109375" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/view_loader.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/layout/year_month_picker.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.4822916666666667" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/menu/chatting_toolbar.xml" value="0.4822916666666667" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/menu/home_toolbar.xml" value="0.4822916666666667" />
+        <entry key="..\:/Users/khc51/Desktop/team project/ForThePuppy-App/forThePuppy/app/src/main/res/xml/network_security_config.xml" value="0.3109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

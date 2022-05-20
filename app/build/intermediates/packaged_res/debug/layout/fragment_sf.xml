@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".ui.surrounding_facilities.SurroundingFacilitiesFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:title=" "
+        app:titleTextColor="@null"
+        android:background="@null"
+        android:id="@+id/surroundingFacilitiesToolbar"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="주변시설"
+            android:layout_gravity="center"
+            android:textColor="@color/mainColor"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+    </androidx.appcompat.widget.Toolbar>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/mainColor"/>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/sf_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tabIconTint="@color/black"
+        app:tabSelectedTextColor="@color/mainColor"
+        app:tabIndicatorColor="@color/mainColor">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/sf_tab_Item1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tab1" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/sf_tab_Item2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tab2" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/sf_tab_Item3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tab3" />
+    </com.google.android.material.tabs.TabLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="withText"
+        android:enabled="true"
+        android:title="홈" />
+
+    <item
+        android:id="@+id/navigation_walk"
+        android:icon="@drawable/ic_baseline_pets_24"
+        app:showAsAction="withText"
+        android:enabled="true"
+        android:title="산책" />
+
+    <item
+        android:id="@+id/navigation_chatting"
+        android:icon="@drawable/ic_baseline_forum_24"
+        app:showAsAction="withText"
+        android:enabled="true"
+        android:title="채팅" />
+
+    <item
+        android:id="@+id/navigation_surrounding_facilities"
+        android:icon="@drawable/ic_baseline_place_24"
+        app:showAsAction="withText"
+        android:enabled="true"
+        android:title="주변시설"/>
+
+    <item
+        android:id="@+id/navigation_my_page"
+        android:icon="@drawable/ic_baseline_person_24"
+        app:showAsAction="withText"
+        android:enabled="true"
+        android:title="마이페이지"/>
+</menu>
